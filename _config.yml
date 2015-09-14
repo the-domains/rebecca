@@ -1,0 +1,26 @@
+name: Rebecca
+favicon: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#0489d8'
+    - '#ffffff'
+    - '#ceb08e'
+    - '#7bdbe1'
+    - '#00080e'
+  brandStrength: 0.6875
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
