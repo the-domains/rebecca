@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Rebecca]]></title>
         <description><![CDATA[Rebecca]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rebecca/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Sep 2015 22:53:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 14 Sep 2015 22:53:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rebecca/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e00194-9034-492b-a0ce-a19c6ba57876.jpg">]]></description>
+            <link>https://thegrid.ai/rebecca/41609bbb-265e-4308-9652-1c82323483be/index.html</link>
+            <guid isPermaLink="false">41609bbb-265e-4308-9652-1c82323483be</guid>
+            <pubDate>Mon, 14 Sep 2015 22:53:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc61a343-c469-4c22-80e3-56be0912513e.jpg">]]></description>
-            <link>undefined88533f37-1c7e-456f-a046-54a8b8b539a6/index.html</link>
+            <link>https://thegrid.ai/rebecca/88533f37-1c7e-456f-a046-54a8b8b539a6/index.html</link>
             <guid isPermaLink="false">88533f37-1c7e-456f-a046-54a8b8b539a6</guid>
             <pubDate>Mon, 14 Sep 2015 22:53:36 GMT</pubDate>
         </item>
