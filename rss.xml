@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rebecca]]></title>
+        <description><![CDATA[Rebecca]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Sep 2015 22:53:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc61a343-c469-4c22-80e3-56be0912513e.jpg">]]></description>
+            <link>undefined88533f37-1c7e-456f-a046-54a8b8b539a6/index.html</link>
+            <guid isPermaLink="false">88533f37-1c7e-456f-a046-54a8b8b539a6</guid>
+            <pubDate>Mon, 14 Sep 2015 22:53:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
